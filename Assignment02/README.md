@@ -144,12 +144,6 @@ Assignment-02/
 
 The MLP neural network is trained on the Wine dataset and evaluated on the test dataset. The notebook provides accuracy, confusion matrix, classification report, training loss visualization, and actual-vs-predicted results to analyze the classification performance.
 
-## Author
-
-**Abhishek Kadam**
-
----
-
 ### Conclusion
 
 The assignment demonstrates how a **Multi-Layer Perceptron neural network** can be used for multi-class wine classification. Feature standardization and evaluation through multiple metrics and visualizations help in understanding the performance of the trained neural network.
